@@ -1,0 +1,4 @@
+﻿  BAI138.cpp
+C:\Users\phuon\OneDrive\Desktop\Ptay\BAITAPNHOM\BAI138\BAI138.cpp(22,57): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\phuon\OneDrive\Desktop\Ptay\BAITAPNHOM\BAI138\BAI138.cpp(24,40): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  BAI138.vcxproj -> C:\Users\phuon\OneDrive\Desktop\Ptay\BAITAPNHOM\x64\Debug\BAI138.exe

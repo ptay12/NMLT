@@ -1,0 +1,3 @@
+﻿  BAI107.cpp
+C:\Users\phuon\OneDrive\Desktop\Ptay\BAITAPNHOM\BAI107\BAI107.cpp(20,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  BAI107.vcxproj -> C:\Users\phuon\OneDrive\Desktop\Ptay\BAITAPNHOM\x64\Debug\BAI107.exe
